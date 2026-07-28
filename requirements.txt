@@ -1,0 +1,8 @@
+# Core: zero dependencies required
+# Everything works with Python's standard library
+
+# Optional: for watch mode (--watch flag)
+watchdog>=3.0.0
+
+# For running tests
+pytest>=7.0.0
