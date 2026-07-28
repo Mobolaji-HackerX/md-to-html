@@ -88,8 +88,6 @@ python md_to_html.py README.md --css my-theme.css
 ```
 md-to-html/
 ├── md_to_html.py          # Main converter + CLI
-├── tests/
-│   └── test_converter.py  # Unit tests
 ├── sample.md              # Example markdown file
 ├── requirements.txt       # Optional dependencies
 ├── .gitignore
